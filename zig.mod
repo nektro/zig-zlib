@@ -5,6 +5,7 @@ license: MIT
 dependencies:
 - type: git
   path: https://github.com/madler/zlib
+  license: Zlib
   version: tag-v1.2.11
   c_include_dirs:
     -
