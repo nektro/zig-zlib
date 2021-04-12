@@ -2,6 +2,7 @@ id: pwblq5jcdktqu1ms9vsdtf6yn0l6xh1q0azs8azajeg6gg7x
 name: zlib
 main: src/lib.zig
 license: MIT
+description: C files necessary to statically build zlib.
 dependencies:
 - type: git
   path: https://github.com/madler/zlib
